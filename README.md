@@ -9,5 +9,7 @@
 ## Description
 The goal of this project is to build and train a convolutional neural network to analyze images of dogs and correctly identify their breeds.
 
+Given an image of a dog, the algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
+
 -![Sample Output][image1]
 
